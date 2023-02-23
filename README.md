@@ -7,7 +7,7 @@ You can **find me** at:
 - Twitter: https://twitter.com/ConnorFinnigan
 - Stack Overflow: https://stackoverflow.com/users/11072418/cf512
 
-Other interests:
+Hobbies:
 - Movies:
     - seeing them often at the theater
     - keeping a [log](https://gist.github.com/cf512/1e0b5607fdb6a6ee1b52261bbab6c533) of them 
