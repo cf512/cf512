@@ -1,7 +1,5 @@
 I'm **Connor Finnigan**, a JavaScript and Python software developer.
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 You can **find me** at:
 - My personal site: https://connorfinnigan.com
 - Twitter: https://twitter.com/ConnorFinnigan
