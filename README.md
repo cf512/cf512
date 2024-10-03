@@ -1,4 +1,4 @@
-I'm **Connor Finnigan**, a JavaScript and Python software developer.
+I'm **Connor Finnigan**, a JavaScript and Python software developer. [@connorfinnigan512](https://github.com/connorfinnigan512) at https://company.findhelp.com
 
 You can **find me** at:
 - My personal site: https://connorfinnigan.com
